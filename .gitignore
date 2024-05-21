@@ -6,10 +6,6 @@ web/sites/default/~settings.local.php
 #ignore services.yml
 web/sites/default/services.yml
 
-#ignore Stripe payment configs
-config_PGY6fGgdqqvFGsE4Y0a75o_cDj6rlh-vi5vvaJQZV2JZZlmOLZpW9LINfnobkjZlkZDQBgPvvQ/sync/commerce_payment.commerce_payment_gateway.sam.yml
-config_PGY6fGgdqqvFGsE4Y0a75o_cDj6rlh-vi5vvaJQZV2JZZlmOLZpW9LINfnobkjZlkZDQBgPvvQ/sync/commerce_payment.commerce_payment_gateway.scs_stripe.yml
-
 #ignore aliases
 # sites/*.ecplatinum.dev
 
